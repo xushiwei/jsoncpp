@@ -1,0 +1,4 @@
+{
+	"name": "lijie",
+	"data": ["hello", {"foo": "bar"}]
+}
